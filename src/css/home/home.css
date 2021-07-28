@@ -1,0 +1,40 @@
+#home .home-nav{
+  background-color: rgb(255, 60, 102);
+}
+#home .home-nav .nav-left{
+  display: flex;
+  justify-content: center;
+}
+#home .home-nav .nav-left .iconfont{
+  font-size: 36px;
+  color: #fff;
+}
+#home .home-nav .nav-center{
+  width: 100%;
+  position: relative;
+}
+#home .home-nav .nav-center input{
+  width: 95%;
+  height: 30px;
+  text-indent: 40px;
+  margin: 0 6px;
+  border-radius: 15px;
+  border: none;
+}
+#home .home-nav .nav-center input:focus{
+  outline: none;
+}
+#home .home-nav .nav-center .zoom{
+  position: absolute;
+  top: 7px;
+  left: 20px;
+}
+#home .home-nav .nav-right{
+  display: flex;
+  justify-content: center;
+}
+#home .home-nav .nav-right span{
+  font-size: 20px;
+  color: #fff;
+  font-family: "微软雅黑";
+}

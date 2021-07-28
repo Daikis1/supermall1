@@ -32,11 +32,9 @@
   }
   .nav-bar .left,.right{
     width: 60px;
-    background-color: rosybrown;
   }
   .nav-bar .center{
     flex: 1;
-    background-color: royalblue;
     margin: 0 5px;
   }
 </style>
